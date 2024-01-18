@@ -1,15 +1,5 @@
 # web3x
 
-[![Version](https://img.shields.io/npm/v/web3x.svg)](https://www.npmjs.com/package/web3x)
-[![Downloads](https://img.shields.io/npm/dm/web3x.svg)](https://www.npmjs.com/package/web3x)
-[![GitHub Stars](https://img.shields.io/github/stars/xf00f/web3x.svg)](https://github.com/xf00f/web3x/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/xf00f/web3x.svg)](https://github.com/xf00f/web3x/issues)
-[![Coverage](https://img.shields.io/coveralls/github/xf00f/web3x/master.svg)](https://coveralls.io/github/xf00f/web3x)
-
-Ethereum TypeScript Client Library - for perfect types and tiny builds.
-
-![Demo](https://user-images.githubusercontent.com/44038056/48001064-5d377d00-e0ff-11e8-994f-36d165f9124e.gif)
-
 ## Overview
 
 `web3x` was created originally as a pure TypeScript port of `web3.js`. Although its API has diverged slightly from `web3.js`,
